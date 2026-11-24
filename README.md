@@ -1,255 +1,155 @@
-# Awesome-Desktop-Pet-Interactive-Virtual-Companions
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions">
+  <img src="assets/banner.svg" alt="Awesome Desktop Pets &amp; Interactive Virtual Companions Banner" width="100%"/>
+</a>
+
+# 🐾 Awesome Desktop Pet & Interactive Virtual Companions 🌟
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <strong>A curated ecosystem directory of SaaS virtual companions, desktop pets, Tamagotchi emulators, Live2D/VRM 3D desktop overlays, and local-first open-source AI screen buddies.</strong>
+</p>
+
+<p align="center">
+  <a href="#-sector-overview--market-dynamics">Sector Overview</a> •
+  <a href="#-saashosted-platforms">SaaS &amp; Hosted Platforms</a> •
+  <a href="#-open-source-github-projects">Open-Source Projects</a> •
+  <a href="#-frameworks--toolkits-for-building-desktop-pets">Developer Frameworks</a> •
+  <a href="#-how-to-contribute">Contributing</a> •
+  <a href="#-support--sponsorship">Support</a> •
+  <a href="#-star-history">Star History</a>
+</p>
+
+---
+
+</div>
+
+## 📌 Introduction & Scope
+
+Welcome to the definitive, SEO-optimized directory of **Desktop Pets & Interactive Virtual Companions** 🐕🤖! Whether you are seeking a nostalgic retro screen-walker (like *eSheep*, *Shimeji*, or *oneko*), a cute pixel pet inside VS Code, an AI coding agent companion reacting to Claude Code and Cursor, or a full-fledged Live2D / 3D VRM digital avatar powered by local LLMs (Ollama, Whisper, Kokoro-TTS), this repository curates the top tools across Windows 🪟, macOS 🍎, Linux 🐧, and modern Web Browsers 🌐.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+> **Market Size & Valuation:** The global interactive AI companion and digital virtual pet ecosystem is estimated at **$44 Billion – $49 Billion in 2026** (with adjacent consumer desktop robot pets contributing an additional ~$550 Million), and is projected to surpass **$350+ Billion by 2034** at an accelerating CAGR of ~32%.
+> 
+> **Market Dynamics & Fragmentation:** The sector exhibits **moderate fragmentation** at the application tier—characterized by massive consumer entertainment platforms capturing wide consumer mindshare, alongside high decentralization across specialized sub-niches (such as privacy-first local-hosted companions, retro desktop mascots, developer-focused coding agent companions, and open VTuber runtimes) where community-driven, user-owned open-source engines consistently outpace closed ecosystems.
 
-markdown
+---
 
-## Top Desktop Pet & Interactive Virtual Companions Ecosystem
+## ☁️ SaaS/Hosted Platforms
 
+The table below catalogs leading commercial and hosted virtual pet, companion, and digital character platforms. Entries are sorted descending by **Company Scale (Market Cap / Valuation / ARR)**:
 
+| Platform / Product 🚀 | Company Scale (Valuation / Revenue) 🏢 | Starting Pricing Tier 💳 | Free Tier Limits / Trial Period ⏱️ | Core Features & Description 📝 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Tamagotchi Digital (Bandai Namco)](https://tamagotchi-official.com)** | ~$22 Billion Market Cap (TYO: 7832; ~$8.6B net sales) | $6.99/month (via Apple Arcade / App Store) | 30-Day Free Trial (Full game features included, no microtransactions or ads during trial) | Official cloud-synced digital Tamagotchi care ecosystem, adventure mini-games, and companion world. |
+| **[Character.ai](https://character.ai)** | ~$2.7 Billion (Valuation based on Google licensing; ~$32M-$50M ARR) | $9.99/month (c.ai+ plan; or $4.99/month for c.ai+ Lite) | Free Forever: Unlimited standard chat messages; subject to traffic queues, basic memory, and standard speed caps. | Massive conversational cloud character catalog, group chat rooms, text-to-speech voice calls, and customizable personas. |
+| **[Chai AI](https://chai-research.com)** | ~$2.4 Billion Valuation (Series A/B backed; ~$100M+ ARR run-rate) | $13.99/month (or $9.99/week Premium; $29.99/month Ultra) | Free Forever: ~70 messages per rolling refresh window, standard LLM access, and daily reward bonus pieces. | Mobile and web conversational roleplay engine powered by reinforcement learning and interactive character cards. |
+| **[Replika (Luka, Inc.)](https://replika.com)** | ~$100M+ Valuation (~$14M ARR; $11M VC funding) | $19.99/month (or $69.99/year billed annually) | Free Forever: Unlimited text messaging strictly in 'Friend' relationship status; 3D room avatar customization. Voice calls & romantic modes locked. | Flagship personal companion avatar with 3D room customization, voice calls, diary entries, and empathetic memory. |
+| **[Kindroid](https://kindroid.ai)** | Bootstrapped / Private (~$10M-$25M est. ARR) | $13.99/month (Standard plan; $139.99/year) | 3-Day Free Trial; new accounts receive a 50-message preview on the flagship model before switching to read-only mode. | Complex memory journals, persistent emotional context, photorealistic visual selfies, and low-latency voice calling. |
+| **[Botify AI](https://botify.ai)** | Private / Indie SaaS (~$5M-$10M est. ARR) | $29.99/year (~$2.50/month billed annually for Premium) | Free Forever: Unlimited character browsing and standard text messaging with cooldowns and ad-supported banners. | Multi-character conversational directory, custom avatar builder, text-to-speech voices, and dynamic roleplay. |
+| **[Anima AI (My Virtual AI Friend)](https://myanima.ai)** | Private / Indie SaaS (~$2M-$5M est. ARR) | $9.99/month (or $39.99/year billed annually) | Free Forever: Basic friend chat with core personality setup; advanced memory, romantic status, and voice calls locked. | Conversational companion offering daily check-ins, emotional support prompts, mini-games, and customizable sprites. |
+| **[Desktop Mate / Steam Pet Suites](https://steampowered.com)** | Independent Commercial Studios (~$1M-$3M Gross) | Free to Play ($0 base; Character DLCs from $14.99 each) | Free Forever: Full baseline software with starter character (*Aieru-tan*), physics window climbing, and mini-games. | Steam-powered transparent desktop overlay characters with official workshop integration and physics interactions. |
+| **[Shimeji Cloud Extension](https://shimejis.xyz)** | Community-Supported Web Portal (<$500k ARR) | Free ($0 / 100% Free Service) | Free Forever: Full access to online character directory, web mascot animations, and online Shimeji sprite editor. | In-browser animated desktop pets and screen-walking sprites compatible with Chromium and Firefox browsers. |
+| **[Koko AI Desktop Companion](https://heykoko.app)** | Early-Stage Startup (<$500k ARR) | Free Plan (with paid family booster tiers from $4.99/mo) | Free Forever: 5 interactive voice/text answers per day, curated trivia facts, and basic daily learning check-ins. | Interactive voice-first companion pet designed for playful screen interactions, questions, and daily desk companionship. |
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+---
 
-*Focused on Interactive Desktop Pets, Tamagotchi & Virtual Creatures, Live2D/VRM Desktop Mascots, Physics-Driven Window Walkers & AI Companion Overlays*  
+## 💻 Open-Source GitHub Projects
 
-**Last updated: November 2026**
+Explore the most active open-source desktop pets, screen toys, Tamagotchi simulators, and AI companions. Every project features a live GitHub star badge linking directly to its stargazer community and is sorted descending by **GitHub Stars**:
 
+| Project & Repository 🌟 | GitHub Stars ⭐ | Primary Tech Stack 🛠️ | Key Capabilities & Highlights 🔍 |
+| :--- | :---: | :--- | :--- |
+| **[AIRI (`moeru-ai/airi`)](https://github.com/moeru-ai/airi)** | <a href="https://github.com/moeru-ai/airi/stargazers"><img src="https://img.shields.io/github/stars/moeru-ai/airi?style=social&color=white" alt="Stars"/></a> | TypeScript, Vue, WebSockets | Comprehensive self-hosted virtual companion container supporting Live2D and 3D VRM models, voice duplex pipelines, gaming hooks, and chat. |
+| **[SillyTavern (`SillyTavern/SillyTavern`)](https://github.com/SillyTavern/SillyTavern)** | <a href="https://github.com/SillyTavern/SillyTavern/stargazers"><img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white" alt="Stars"/></a> | JavaScript, Node.js | Industry-standard local-first frontend for LLM characters, supporting Character Cards, Live2D animated sprites, TTS/STT, and deep lorebook memory. |
+| **[BongoCat (`ayangweb/BongoCat`)](https://github.com/ayangweb/BongoCat)** | <a href="https://github.com/ayangweb/BongoCat/stargazers"><img src="https://img.shields.io/github/stars/ayangweb/BongoCat?style=social&color=white" alt="Stars"/></a> | Electron, JavaScript, C++ | Cross-platform interactive desktop mascot that mimics keyboard keystrokes, mouse clicks, and custom sprite reactions on your screen. |
+| **[cc-haha AI Desktop Agent Pet (`NanmiCoder/cc-haha`)](https://github.com/NanmiCoder/cc-haha)** | <a href="https://github.com/NanmiCoder/cc-haha/stargazers"><img src="https://img.shields.io/github/stars/NanmiCoder/cc-haha?style=social&color=white" alt="Stars"/></a> | Rust, Tauri, Vue, Python | Local-first Claude Code & AI agent desktop pet workspace: task-aware pets that watch code execution, diffs, git worktrees, and computer use. |
+| **[Open-LLM-VTuber (`Open-LLM-VTuber/Open-LLM-VTuber`)](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** | <a href="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/stargazers"><img src="https://img.shields.io/github/stars/Open-LLM-VTuber/Open-LLM-VTuber?style=social&color=white" alt="Stars"/></a> | Python, Live2D, PyTorch | Voice-and-vision desktop companion featuring transparent overlay mode, Live2D lip-syncing, screen capture awareness, and offline Ollama/Whisper. |
+| **[VPet Simulator (`LorisYounger/VPet`)](https://github.com/LorisYounger/VPet)** | <a href="https://github.com/LorisYounger/VPet/stargazers"><img src="https://img.shields.io/github/stars/LorisYounger/VPet?style=social&color=white" alt="Stars"/></a> | C#, WPF, .NET | Widely popular open-source virtual pet simulator with high-resolution animation, feeding, work/study routines, custom mods, and Steam Workshop sync. |
+| **[Clawd on Desk (`rullerzhou-afk/clawd-on-desk`)](https://github.com/rullerzhou-afk/clawd-on-desk)** | <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=social&color=white" alt="Stars"/></a> | Rust, Tauri, Webview | A pixel-art desktop pet that monitors Claude Code, Codex, and Cursor CLI sessions in real-time, animating progress states while you build. |
+| **[vscode-pets (`tonybaloney/vscode-pets`)](https://github.com/tonybaloney/vscode-pets)** | <a href="https://github.com/tonybaloney/vscode-pets/stargazers"><img src="https://img.shields.io/github/stars/tonybaloney/vscode-pets?style=social&color=white" alt="Stars"/></a> | TypeScript, VS Code API | Beloved editor extension placing interactive cats, dogs, ducks, crabs, Clippy, and rubber ducks directly into your VS Code sidebar or explorer window. |
+| **[Bongo Cat Web (`Externalizable/bongo.cat`)](https://github.com/Externalizable/bongo.cat)** | <a href="https://github.com/Externalizable/bongo.cat/stargazers"><img src="https://img.shields.io/github/stars/Externalizable/bongo.cat?style=social&color=white" alt="Stars"/></a> | JavaScript, Canvas, CSS | The iconic web-based and desktop-embeddable bongo-tapping cat responding dynamically to piano notes, drum triggers, and typing strokes. |
+| **[LingChat Galgame Pet (`SlimeBoyOwO/LingChat`)](https://github.com/SlimeBoyOwO/LingChat)** | <a href="https://github.com/SlimeBoyOwO/LingChat/stargazers"><img src="https://img.shields.io/github/stars/SlimeBoyOwO/LingChat?style=social&color=white" alt="Stars"/></a> | Python, PyQt, LLM | Immersive AI-driven Galgame desktop pet with live emotional expressions, scheduling, interactive chat, and dynamic story dialogue. |
+| **[three-vrm (`pixiv/three-vrm`)](https://github.com/pixiv/three-vrm)** | <a href="https://github.com/pixiv/three-vrm/stargazers"><img src="https://img.shields.io/github/stars/pixiv/three-vrm?style=social&color=white" alt="Stars"/></a> | TypeScript, Three.js, WebGL | Official Pixiv library for loading, displaying, and animating 3D VRM avatars with spring-bone physics and facial expression blendshapes. |
+| **[Amica (`semperai/amica`)](https://github.com/semperai/amica)** | <a href="https://github.com/semperai/amica/stargazers"><img src="https://img.shields.io/github/stars/semperai/amica?style=social&color=white" alt="Stars"/></a> | TypeScript, Next.js, Three.js | 3D VRM virtual companion web & desktop app featuring speech recognition, real-time lip synchronization, emotional states, and vision. |
+| **[OpenPets SDK (`OpenPetsHQ/openpets`)](https://github.com/OpenPetsHQ/openpets)** | <a href="https://github.com/OpenPetsHQ/openpets/stargazers"><img src="https://img.shields.io/github/stars/OpenPetsHQ/openpets?style=social&color=white" alt="Stars"/></a> | TypeScript, Node.js | Local-first desktop companion SDK platform featuring custom pet animations, extensible hooks, and coding-agent integrations. |
+| **[oneko.js (`adryd325/oneko.js`)](https://github.com/adryd325/oneko.js)** | <a href="https://github.com/adryd325/oneko.js/stargazers"><img src="https://img.shields.io/github/stars/adryd325/oneko.js?style=social&color=white" alt="Stars"/></a> | JavaScript | Lightweight zero-dependency web & desktop script recreating the classic 1990s X11 `oneko` kitten that chases mouse cursors across the screen. |
+| **[Asciiquarium (`cmatsuoka/asciiquarium`)](https://github.com/cmatsuoka/asciiquarium)** | <a href="https://github.com/cmatsuoka/asciiquarium/stargazers"><img src="https://img.shields.io/github/stars/cmatsuoka/asciiquarium?style=social&color=white" alt="Stars"/></a> | Perl, Curses, ASCII | Classic, cozy terminal aquarium bringing animated ASCII fish, sharks, ducks, and underwater life to your command-line window. |
+| **[Ark-Pets (`isHarryh/Ark-Pets`)](https://github.com/isHarryh/Ark-Pets)** | <a href="https://github.com/isHarryh/Ark-Pets/stargazers"><img src="https://img.shields.io/github/stars/isHarryh/Ark-Pets?style=social&color=white" alt="Stars"/></a> | Java, LibGDX, Spine | Arknights-themed desktop companion bringing chibi-style characters with physics, gravity, and touch interactions to Windows/macOS. |
+| **[desktopPet / eSheep (`Adrianotiger/desktopPet`)](https://github.com/Adrianotiger/desktopPet)** | <a href="https://github.com/Adrianotiger/desktopPet/stargazers"><img src="https://img.shields.io/github/stars/Adrianotiger/desktopPet?style=social&color=white" alt="Stars"/></a> | C#, .NET, Win32 | Faithful modern recreation of the legendary 1995 stray sheep (eSheep) desktop toy that walks on application windows and sleeps on taskbars. |
+| **[HachimoDock (`ai-maker-lab/HachimoDock`)](https://github.com/ai-maker-lab/HachimoDock)** | <a href="https://github.com/ai-maker-lab/HachimoDock/stargazers"><img src="https://img.shields.io/github/stars/ai-maker-lab/HachimoDock?style=social&color=white" alt="Stars"/></a> | Electron, TypeScript | An animated desktop companion that responds in real-time to Claude Code sessions—thinking, juggling, typing, and celebrating task completions. |
+| **[ChatVRM (`pixiv/ChatVRM`)](https://github.com/pixiv/ChatVRM)** | <a href="https://github.com/pixiv/ChatVRM/stargazers"><img src="https://img.shields.io/github/stars/pixiv/ChatVRM?style=social&color=white" alt="Stars"/></a> | TypeScript, Three.js | Lightweight web demo that lets users talk to 3D VRM avatars using speech synthesis, microphone recognition, and local/cloud LLMs. |
+| **[Desktop-Cat (`1ilit/Desktop-Cat`)](https://github.com/1ilit/Desktop-Cat)** | <a href="https://github.com/1ilit/Desktop-Cat/stargazers"><img src="https://img.shields.io/github/stars/1ilit/Desktop-Cat?style=social&color=white" alt="Stars"/></a> | Python, Tkinter | Cozy pixel-art desktop kitty written in lightweight Python that roams across your screen, catches naps, and reacts to mouse clicks. |
+| **[tamalib (`jcrona/tamalib`)](https://github.com/jcrona/tamalib)** | <a href="https://github.com/jcrona/tamalib/stargazers"><img src="https://img.shields.io/github/stars/jcrona/tamalib?style=social&color=white" alt="Stars"/></a> | C, WebAssembly | Accurate C emulation library for Tamagotchi hardware (Tamagotchi P1/P2) compiled to WebAssembly for browser and desktop simulators. |
+| **[mochimochi-man/aquarium_espresso](https://github.com/mochimochi-man/aquarium_espresso)** | <a href="https://github.com/mochimochi-man/aquarium_espresso/stargazers"><img src="https://img.shields.io/github/stars/mochimochi-man/aquarium_espresso?style=social&color=white" alt="Stars"/></a> | Python, Qt, OpenGL | Cozy open-source interactive desktop aquarium and virtual creature runtime designed for lightweight desktop presence and screen-side comfort. |
 
+---
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Desktop Pet & Interactive Virtual Companions**. These tools render, animate, feed, simulate, and converse with interactive virtual pets, screen-walking sprites, desktop aquariums, Tamagotchi-style creatures, and AI-driven virtual companions across Windows, macOS, Linux, and web desktops.
+## 🛠️ Frameworks & Toolkits for Building Desktop Pets
 
+Looking to architect your own desktop pet or AI companion runtime? These battle-tested developer tools provide transparent windows, audio pipelines, and local inference:
 
+- 🦀 **[Tauri (`tauri-apps/tauri`)](https://github.com/tauri-apps/tauri)**: The premier lightweight runtime for building transparent, click-through desktop overlay windows in Rust with minimal memory footprint (~25MB RAM vs ~200MB in Electron).
+- 🎮 **[Godot Engine (`godotengine/godot`)](https://github.com/godotengine/godot)**: Open-source 2D/3D game engine supporting borderless transparent desktop windows, sprite sheets, and physics nodes for desktop pets.
+- 🗣️ **[Kokoro-TTS (`hexgrad/kokoro`)](https://github.com/hexgrad/kokoro)** & **[Whisper.cpp (`ggml-org/whisper.cpp`)](https://github.com)**: Ultra-fast offline speech synthesis and speech-to-text recognition for responsive voice-enabled virtual pets.
+- 🧠 **[Ollama (`ollama/ollama`)](https://github.com/ollama/ollama)**: Run local open-source LLMs (Llama 3, Gemma, Mistral, Qwen) privately on your hardware to drive your pet's conversation and memory without cloud API costs.
+- 📐 **[Live2D Cubism SDK & Pixi-Live2D-Display](https://github.com)**: Industry standard 2D parameter-driven mesh animation framework for responsive desktop anime companions.
 
-**Examples** include Desktop Pet Engine, Tamagotchi Cloud, Shimeji Cloud, Koko AI, Replika, Anima AI, Chai AI, Character.ai, Botify AI, Kindroid, and mochimochi-man/aquarium_espresso (the category leaders and popular runtimes). 
+---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! Help keep this curated resource fresh and useful:
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for desktop virtual pets & interactive screen toys (`mochimochi-man/aquarium_espresso`, `Shimeji-ee`, `Bongo Cat`, `vscode-pets`, `Linux-Desktop-Pet / eSheep`), AI-powered Live2D/3D desktop companions (`Open-LLM-VTuber`, `AIRI`, `Amica`), and local AI character engines (`SillyTavern`, `three-vrm`) — ideal for desktop personalization fans, indie game/creative developers, VTuber/avatar makers, and cozy software enthusiasts.
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-pet`).
+3. 📝 **Add your entry** to either the SaaS or Open-Source table:
+   - For SaaS: Name, link, company scale, exact starting price, exact free tier limits, and concise description.
+   - For Open-Source: Repository name, link, star badge (`style=social&color=white`), tech stack, and key capabilities.
+4. ✅ **Ensure entries maintain alphabetical or sorted order** where appropriate.
+5. 🚀 **Submit a Pull Request** with a brief summary of the project.
 
+---
 
+## 💖 Support & Sponsorship
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+If this curated directory helped you discover a fun desktop companion, build a custom screen pet, or power your AI avatar project, consider supporting ongoing maintenance:
 
+- ⭐ **Star this repository** to improve visibility on GitHub!
+- 🍴 **Fork and share** with colleagues, Discord communities, and social media.
+- ☕ **Sponsor the Maintainer:** Support development and curated open-source research directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your sponsorship helps keep community projects independent, updated, and ad-free!
 
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+  </a>
+</p>
 
-## Table of Contents
+---
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+## 📈 Star History
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions&type=date&legend=top-left)
 
-- [How to Contribute](#how-to-contribute)
+---
 
-- [Support & Share](#support--share)
+## ⚖️ Disclaimer
 
-- [Disclaimer](#disclaimer)
+- This directory is a **community-curated index** provided for educational, research, and hobbyist purposes.
+- Running continuous 60fps animations or GPU-shaded 3D companion overlays on battery power can increase CPU/GPU usage; configure appropriate idle frame-rate caps.
+- For AI-enabled companions with microphone or screen capture features, ensure audio and visual buffers are kept on-device whenever private data is on screen.
 
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Desktop Pet Engine / Desktop Mate (Steam & Cloud Workshop Suites)](https://steampowered.com)**  
-
-  Commercial desktop pet platforms featuring Workshop-synced 2D/3D characters, physics-based window climbing, mini-games, and customizable interactive desktop companions.
-
-
-
-- **[Character.ai](https://character.ai)**  
-
-  Leading cloud conversational AI character and virtual companion platform offering millions of user-created personas, voice calls, group rooms, and persistent memory.
-
-
-
-- **[Replika](https://replika.com)**  
-
-  Personal AI companion platform uniting customizable 3D avatars, AR interactions, voice chat, mood tracking, and evolving conversational memory.
-
-
-
-- **[Kindroid](https://kindroid.ai)**  
-
-  Cloud AI companion platform featuring customizable personalities, long-term memory journals, low-latency voice calls, and AI-generated avatar visuals.
-
-
-
-- **[Chai AI](https://chai-research.com)**  
-
-  Mobile and web conversational AI character platform powered by reinforcement-learned dialogue models for interactive roleplay and virtual companions.
-
-
-
-- **[Botify AI](https://botify.ai)**  
-
-  Cloud AI character and digital companion creator supporting custom visual avatars, expressive text-to-speech voices, and interactive chat personas.
-
-
-
-- **[Anima AI](https://myanima.ai)**  
-
-  Cloud AI friend and virtual companion service offering personality customization, conversational games, and daily interactive check-ins.
-
-
-
-- **[Koko AI & Hosted Virtual Pet Web Portals](https://koko.ai)**  
-
-  Browser-based interactive AI companion and virtual pet platforms blending playful character sprites with conversational AI and daily care mechanics.
-
-
-
-- **[Tamagotchi Cloud / Official Digital Virtual Pet Apps (Bandai)](https://tamagotchi-official.com)**  
-
-  Official digital virtual pet apps and cloud-connected companion ecosystems bringing classic feeding, evolution, and mini-game care loops to modern devices.
-
-
-
-- **[Shimeji Cloud & Browser Extension Mascot Marketplaces](https://shimejis.xyz)**  
-
-  Hosted character packs and browser-extension Shimeji platforms letting users spawn animated screen-walking mascots across web pages.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[mochimochi-man/aquarium_espresso](https://github.com)**  
-
-  Open-source interactive desktop pet and virtual companion project engineered for cozy screen-side presence, playful animations, and lightweight desktop enjoyment.
-
-
-
-- **[Shimeji-ee (`kilkakon/shimeji-ee`)](https://github.com)**  
-
-  Flagship open-source cross-platform desktop mascot engine allowing customizable sprite characters to walk, climb window borders, sit on taskbars, and multiply across your screen.
-
-
-
-- **[Bongo Cat (`Externalizable/bongo.cat` & desktop ports)](https://github.com)**  
-
-  Iconic open-source interactive desktop/web pet that reacts in real time to your keyboard keystrokes, mouse clicks, and audio input with charming bongo-slapping animations.
-
-
-
-- **[vscode-pets (`tonybaloney/vscode-pets`)](https://github.com)**  
-
-  Beloved open-source extension bringing playful pixel-art cats, dogs, crabs, ducks, Clippy, and rubber ducks right inside your VS Code editor panel to play ball while you code.
-
-
-
-- **[Open-LLM-VTuber (`Open-LLM-VTuber/Open-LLM-VTuber`)](https://github.com)**  
-
-  Feature-rich open-source voice-interactive desktop companion supporting transparent window overlay mode, Live2D lip-syncing, screen vision, and local Ollama/Whisper/TTS pipelines.
-
-
-
-- **[AIRI (`moeru-ai/airi`)](https://github.com)**  
-
-  Modern open-source self-hosted virtual companion container supporting Live2D and 3D VRM avatars, real-time voice conversations, gaming integrations, and Discord presence.
-
-
-
-- **[Amica (`semperai/amica`)](https://github.com)**  
-
-  Open-source 3D VRM virtual companion interface built with Three.js featuring real-time speech recognition, expressive facial blendshapes, lip-sync, and vision awareness.
-
-
-
-- **[SillyTavern (`SillyTavern/SillyTavern`)](https://github.com)**  
-
-  Industry-standard local-first open-source frontend for AI characters and virtual companions supporting Character Cards, Live2D sprites, TTS/STT, lorebooks, and local LLMs.
-
-
-
-- **[oneko.js (`adryd325/oneko.js`) & Classic `oneko`](https://github.com)**  
-
-  Lightweight, zero-dependency open-source recreation of the classic X11 `oneko` cat that chases your mouse cursor across webpages and desktops before curling up to sleep.
-
-
-
-- **[Linux-Desktop-Pet / Wayland & X11 Mascots (`search?q=desktop+pet+linux+wayland`)](https://github.com)**  
-
-  Open-source GTK, Qt, and Rust transparent-window desktop pets supporting animated sprite sheets, mouse physics, and Pomodoro/break reminders on Linux, macOS, and Windows.
-
-
-
-- **[three-vrm (`pixiv/three-vrm`)](https://github.com)**  
-
-  Official open-source Three.js library from Pixiv for rendering and animating 3D VRM virtual companions with spring-bone hair/clothing physics and expression morphs.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[OpenGotchi / Tamagotchi Emulators — Brick (`BrickEmu` / `pico-tamagotchi` & `tamalib` by `jcrona/tamalib`)](https://github.com)** for open-source C/WebAssembly Tamagotchi hardware emulators and virtual pet firmware running on desktops, browsers, and ESP32/Raspberry Pi.
-
-- **[Tauri (`tauri-apps/tauri`)](https://github.com)** and **[Godot Engine (`godotengine/godot`)](https://github.com)** for building lightweight, transparent-window, click-through desktop pets in Rust or GDScript with minimal RAM usage.
-
-- **[Asciiquarium (`cmatsuoka/asciiquarium`)](https://github.com)** for a classic, cozy open-source terminal aquarium full of animated ASCII fish, sharks, whales, and sea castles.
-
-- **[Kokoro-TTS (`hexgrad/kokoro`)](https://github.com)** and **[Whisper.cpp (`ggml-org/whisper.cpp`)](https://github.com)** for adding offline, low-latency voice synthesis and speech recognition to interactive desktop companions.
-
-- **[Ollama (`ollama/ollama`)](https://github.com)** for running local open-weight conversational models privately on your own hardware to power intelligent desktop pets without cloud APIs.
-
-
-
-**Frameworks for building custom systems**: Combine **mochimochi-man/aquarium_espresso** or **Shimeji-ee** for classic animated desktop pets, **Tauri / Godot + three-vrm** for custom transparent-window 3D companions, and **Open-LLM-VTuber + Ollama** for voice-and-vision-enabled local AI companions.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Always-on desktop overlay pets running continuous 60fps animations or 3D shaders can increase idle GPU/battery draw on laptops; configure frame-rate caps and pause-on-fullscreen rules.
-
-Use code with caution.
-
-• If using AI-enabled virtual companions with microphone, webcam, or screen-capture access, verify that audio/video frames are processed locally on-device (Whisper.cpp, Ollama) rather than uploaded to unverified servers.
-
-Made for desktop personalization fans, cozy software creators, indie game developers, and open-source contributors.
-
-Let's make desktop pets and interactive virtual companions more open, playful, and user-owned.
+<div align="center">
+  <sub>Curated with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the global open-source community.</sub>
+</div>
