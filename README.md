@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Pet-Interactive-Virtual-Companions/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,9 +67,9 @@ The table below catalogs leading commercial and hosted virtual pet, companion, a
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the most active open-source desktop pets, screen toys, Tamagotchi simulators, and AI companions. Every project features a live GitHub star badge linking directly to its stargazer community and is sorted descending by **GitHub Stars**:
+Explore the most active open-source desktop pets, screen toys, Tamagotchi simulators, and AI companions. Every project features a live GitHub Stars_Badge linking directly to its stargazer community and is sorted descending by **GitHub_Stars**:
 
-| Project & Repository 🌟 | GitHub Stars ⭐ | Primary Tech Stack 🛠️ | Key Capabilities & Highlights 🔍 |
+| Project & Repository 🌟 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | Key Capabilities & Highlights 🔍 |
 | :--- | :---: | :--- | :--- |
 | **[AIRI (`moeru-ai/airi`)](https://github.com/moeru-ai/airi)** | <a href="https://github.com/moeru-ai/airi/stargazers"><img src="https://img.shields.io/github/stars/moeru-ai/airi?style=social&color=white" alt="Stars"/></a> | TypeScript, Vue, WebSockets | Comprehensive self-hosted virtual companion container supporting Live2D and 3D VRM models, voice duplex pipelines, gaming hooks, and chat. |
 | **[SillyTavern (`SillyTavern/SillyTavern`)](https://github.com/SillyTavern/SillyTavern)** | <a href="https://github.com/SillyTavern/SillyTavern/stargazers"><img src="https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white" alt="Stars"/></a> | JavaScript, Node.js | Industry-standard local-first frontend for LLM characters, supporting Character Cards, Live2D animated sprites, TTS/STT, and deep lorebook memory. |
@@ -116,7 +116,7 @@ Contributions are warmly welcomed! Help keep this curated resource fresh and use
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-pet`).
 3. 📝 **Add your entry** to either the SaaS or Open-Source table:
    - For SaaS: Name, link, company scale, exact starting price, exact free tier limits, and concise description.
-   - For Open-Source: Repository name, link, star badge (`style=social&color=white`), tech stack, and key capabilities.
+   - For Open-Source: Repository name, link, Stars_Badge (`style=social&color=white`), tech stack, and key capabilities.
 4. ✅ **Ensure entries maintain alphabetical or sorted order** where appropriate.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project.
 
